@@ -1,0 +1,2 @@
+# MyAwesomeBlog
+Django Blog
